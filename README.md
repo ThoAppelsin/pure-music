@@ -16,8 +16,8 @@ Alternatively, you can also click them with a mouse. A short explanation for the
 | Parameter | Explanation |
 | ---- | ---- |
 | Base Frequency | The frequency at which the 1/1 key plays. |
-| Least Common Multiple Limit | The limit to the fractional details, as in a key with the factor A/B appears on the screen if and only if the multiplication A * B is less than or equal to the limit. |
-| Octave Limit | The limit to how far the octaves can extend, as in a key with 1/A or A/1 may only appear if A is less than or equal to the limit. |
+| Least Common Multiple Limit | The limit to the fractional details, as in a key with the factor A/B appears on the screen if and only if the multiplication of A and B is less than or equal to this limit. |
+| Octave Limit | The limit to how far the octaves can extend, as in a key with 1/A or A/1 may only appear if A is less than or equal to this limit. |
 
 ## The Idea
 
